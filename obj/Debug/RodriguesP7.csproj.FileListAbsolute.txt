@@ -1,0 +1,17 @@
+C:\Users\ACR\Desktop\c++ programing backup\C#\RodriguesP7\RodriguesP7\bin\Debug\CustomerDB.mdf
+C:\Users\ACR\Desktop\c++ programing backup\C#\RodriguesP7\RodriguesP7\bin\Debug\CustomerDB_log.ldf
+C:\Users\ACR\Desktop\c++ programing backup\C#\RodriguesP7\RodriguesP7\bin\Debug\RodriguesP7.exe.config
+C:\Users\ACR\Desktop\c++ programing backup\C#\RodriguesP7\RodriguesP7\bin\Debug\RodriguesP7.exe
+C:\Users\ACR\Desktop\c++ programing backup\C#\RodriguesP7\RodriguesP7\bin\Debug\RodriguesP7.pdb
+C:\Users\ACR\Desktop\c++ programing backup\C#\RodriguesP7\RodriguesP7\obj\Debug\RodriguesP7.csprojAssemblyReference.cache
+C:\Users\ACR\Desktop\c++ programing backup\C#\RodriguesP7\RodriguesP7\obj\Debug\MainWindow.g.cs
+C:\Users\ACR\Desktop\c++ programing backup\C#\RodriguesP7\RodriguesP7\obj\Debug\App.g.cs
+C:\Users\ACR\Desktop\c++ programing backup\C#\RodriguesP7\RodriguesP7\obj\Debug\RodriguesP7_Content.g.cs
+C:\Users\ACR\Desktop\c++ programing backup\C#\RodriguesP7\RodriguesP7\obj\Debug\RodriguesP7_MarkupCompile.cache
+C:\Users\ACR\Desktop\c++ programing backup\C#\RodriguesP7\RodriguesP7\obj\Debug\RodriguesP7_MarkupCompile.lref
+C:\Users\ACR\Desktop\c++ programing backup\C#\RodriguesP7\RodriguesP7\obj\Debug\MainWindow.baml
+C:\Users\ACR\Desktop\c++ programing backup\C#\RodriguesP7\RodriguesP7\obj\Debug\RodriguesP7.g.resources
+C:\Users\ACR\Desktop\c++ programing backup\C#\RodriguesP7\RodriguesP7\obj\Debug\RodriguesP7.Properties.Resources.resources
+C:\Users\ACR\Desktop\c++ programing backup\C#\RodriguesP7\RodriguesP7\obj\Debug\RodriguesP7.csproj.GenerateResource.cache
+C:\Users\ACR\Desktop\c++ programing backup\C#\RodriguesP7\RodriguesP7\obj\Debug\RodriguesP7.exe
+C:\Users\ACR\Desktop\c++ programing backup\C#\RodriguesP7\RodriguesP7\obj\Debug\RodriguesP7.pdb
